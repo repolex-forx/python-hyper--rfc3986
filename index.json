@@ -1,0 +1,11 @@
+{
+  "org": "python-hyper",
+  "repo": "rfc3986",
+  "versions": [
+    {
+      "commit": "3bd3832b72eb981d080514a8192046e3177263be",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:52:35.104577+00:00"
+    }
+  ]
+}
