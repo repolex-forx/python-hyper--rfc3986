@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/rfc3986/commit/3bd3832b72eb981d080514a8192046e3177263be",
       "git:hexsha": "3bd3832b72eb981d080514a8192046e3177263be",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/rfc3986/commit/35296cf31602716d7542c9e26d04bcdae58678c0",
